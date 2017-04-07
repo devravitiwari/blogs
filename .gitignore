@@ -1,0 +1,5 @@
+# gitignore : https://git-scm.com/docs/gitignore
+
+# common ide dirs
+.vscode
+.idea
